@@ -1,67 +1,74 @@
-<h1 align="center">Hi 👋, I'm Lovejeet Singh</h1>
-<h3 align="center">CSE Student | App Developer | Java Enthusiast | Tech Explorer 🚀</h3>
+<h1 align="center">Lovejeet Singh</h1>
+<h3 align="center">B.Tech CSE (AI/ML) Student | AI Engineer in Progress | Backend & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+about+Technology;App+Developer+in+Progress;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Focused;Gen+AI+Explorer;Full+Stack+Developer;Strong+in+DSA+%26+OOP;Building+Problem-Solving+Solutions" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 Diploma CSE Student
-- 💻 Currently learning **App Development & Backend**
-- 🧠 Strong interest in **Java & Problem Solving**
-- 🚀 Goal: Build impactful tech products
-- 🌱 Always improving myself
+Motivated B.Tech CSE (AI/ML) student with strong foundations in **Data Structures & Algorithms, Object-Oriented Programming, and Machine Learning**.  
+
+Focused on building scalable, real-world solutions using **AI, Generative AI, and Full-Stack Development**.  
+
+Actively working toward becoming a skilled **AI Engineer with strong Backend and DevOps expertise**.
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Core Areas of Interest
+
+- Artificial Intelligence & Machine Learning  
+- Generative AI & Applied AI Systems  
+- Backend Development & System Design  
+- DevOps Fundamentals & Deployment Pipelines  
+- Problem Solving & Algorithmic Thinking  
+
+---
+
+## 🛠 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,dart,html,css,js,git,github,vscode" />
+</p>
+
+**Conceptual Strengths:**
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Machine Learning Fundamentals  
+- Backend Logic & API Design  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=z-lovejeet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-lovejeet&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 Career Objective
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z-lovejeet&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=z-lovejeet&theme=tokyonight" />
-</p>
+To engineer intelligent systems that solve meaningful real-world problems while mastering scalable backend architecture and modern DevOps practices.
 
 ---
 
-### 📈 Most Used Languages
+## 🌐 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-lovejeet&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/z-lovejeet/z-lovejeet/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/](https://www.linkedin.com/in/lovejeet-singh-14666b391/">
+  <a href="https://www.linkedin.com/in/lovejeet-singh-14666b391">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:lovejeet1225@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
 ---
 
-⭐️ From Lovejeet Singh
+<p align="center">
+  <i>"Design intelligent systems. Build scalable solutions. Continuously evolve."</i>
+</p>
