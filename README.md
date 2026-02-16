@@ -31,7 +31,7 @@ Algorithmic Problem Solving
 ## Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,supabase,flutter,dart,html,css,git,github,vscode" />
+  <img height="48" src="https://skillicons.dev/icons?i=python,java,javascript,postgres,supabase,flutter,dart,html,css,git,github,vscode" />
 </p>
 
 ---
