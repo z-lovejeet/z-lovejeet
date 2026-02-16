@@ -30,24 +30,8 @@ Algorithmic Problem Solving
 
 ## Technical Stack
 
-### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
-</p>
-
-### Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase" />
-</p>
-
-### Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,sql,supabase,flutter,dart,html,css,git,github,vscode" />
 </p>
 
 ---
