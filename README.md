@@ -1,74 +1,71 @@
 <h1 align="center">Lovejeet Singh</h1>
-<h3 align="center">B.Tech CSE (AI/ML) Student | AI Engineer in Progress | Backend & DevOps Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Focused;Gen+AI+Explorer;Full+Stack+Developer;Strong+in+DSA+%26+OOP;Building+Problem-Solving+Solutions" />
+B.Tech CSE (AI/ML) Student • AI Engineer in Progress • Backend & DevOps Enthusiast
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## Profile
 
-Motivated B.Tech CSE (AI/ML) student with strong foundations in **Data Structures & Algorithms, Object-Oriented Programming, and Machine Learning**.  
+I am a B.Tech Computer Science (AI/ML) student with strong foundations in Data Structures & Algorithms, Object-Oriented Programming, and Machine Learning.
 
-Focused on building scalable, real-world solutions using **AI, Generative AI, and Full-Stack Development**.  
+My focus lies in building intelligent systems and scalable backend solutions. I am particularly interested in Artificial Intelligence, Generative AI, backend engineering, and DevOps practices.
 
-Actively working toward becoming a skilled **AI Engineer with strong Backend and DevOps expertise**.
+I aim to engineer real-world problem-solving systems that are efficient, scalable, and production-ready.
 
 ---
 
-## 🚀 Core Areas of Interest
+## Core Interests
 
 - Artificial Intelligence & Machine Learning  
 - Generative AI & Applied AI Systems  
 - Backend Development & System Design  
-- DevOps Fundamentals & Deployment Pipelines  
-- Problem Solving & Algorithmic Thinking  
+- DevOps & Deployment Pipelines  
+- Algorithmic Problem Solving  
 
 ---
 
-## 🛠 Technical Skills
+## Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flutter,dart,html,css,js,git,github,vscode" />
-</p>
+**Languages**
+- Python  
+- Java  
+- JavaScript  
 
-**Conceptual Strengths:**
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
+**AI / ML**
 - Machine Learning Fundamentals  
-- Backend Logic & API Design  
+- Model Building & Evaluation  
+
+**Development**
+- Flutter  
+- HTML  
+- CSS  
+
+**Tools**
+- Git  
+- GitHub  
+- VS Code  
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=z-lovejeet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=z-lovejeet&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-lovejeet&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Career Objective
-
-To engineer intelligent systems that solve meaningful real-world problems while mastering scalable backend architecture and modern DevOps practices.
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lovejeet-singh-14666b391">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-lovejeet&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
+## Career Direction
+
+Working toward becoming a skilled AI Engineer with strong Backend and DevOps expertise, capable of designing intelligent systems and scalable infrastructure.
+
+---
+
 <p align="center">
-  <i>"Design intelligent systems. Build scalable solutions. Continuously evolve."</i>
+Building intelligent systems. Designing scalable solutions. Continuously improving.
 </p>
