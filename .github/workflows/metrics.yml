@@ -1,0 +1,31 @@
+name: Update Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Daily at midnight UTC
+  workflow_dispatch:        # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate metrics SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate-metrics.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/metrics.svg
+          git diff --cached --quiet || git commit -m "chore: update metrics"
+          git push
