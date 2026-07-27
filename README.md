@@ -56,13 +56,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=z-lovejeet&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3DDBD9&border_color=21262D&ring_color=58A6FF&hide_border=false&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z-lovejeet&theme=github_dark" alt="Stats" />
 &nbsp;
-<img width="49%" src="https://streak-stats.demolab.com?user=z-lovejeet&background=0D1117&border=21262D&ring=58A6FF&fire=3DDBD9&currStreakLabel=C9D1D9&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=7D8590&stroke=21262D&border_radius=10" alt="Streak Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z-lovejeet&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 
 <br><br>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-lovejeet&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=21262D&langs_count=8&hide_border=false&border_radius=10" alt="Top Languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z-lovejeet&theme=github_dark" alt="Profile Details" />
 
 </div>
 
