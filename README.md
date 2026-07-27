@@ -54,17 +54,9 @@
 
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z-lovejeet&theme=github_dark" alt="Stats" />
-&nbsp;
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z-lovejeet&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-
-<br><br>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z-lovejeet&theme=github_dark" alt="Profile Details" />
-
-</div>
+<p align="center">
+  <img src="./assets/metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
 
 <br>
 <p align="center"><img src="./assets/divider.svg" width="100%" /></p>
@@ -180,7 +172,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=z-lovejeet&bg_color=0D1117&color=58A6FF&line=3DDBD9&point=C9D1D9&area=true&area_color=161B22&hide_border=true&custom_title=" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=z-lovejeet&bg_color=0D1117&color=484f58&line=58A6FF&point=3DDBD9&area=true&area_color=1a3351&hide_border=true&custom_title=%20&radius=3&title_color=58A6FF" width="100%" alt="Contribution Graph" />
 
 <br>
 
