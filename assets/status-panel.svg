@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="190" viewBox="0 0 850 190">
+  <!-- Background -->
+  <rect width="850" height="190" fill="#0d1117" rx="8"/>
+  <rect width="850" height="190" fill="none" stroke="#21262d" stroke-width="1" rx="8"/>
+
+  <!-- BUILDING -->
+  <circle cx="30" cy="35" r="4" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="30" font-family="'Consolas', 'Courier New', monospace" font-size="10" fill="#7d8590" letter-spacing="2">BUILDING</text>
+  <text x="48" y="46" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">StormAPI — High-performance load testing with Java 21 Virtual Threads</text>
+
+  <!-- LEARNING -->
+  <circle cx="30" cy="78" r="4" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <text x="48" y="73" font-family="'Consolas', 'Courier New', monospace" font-size="10" fill="#7d8590" letter-spacing="2">LEARNING</text>
+  <text x="48" y="89" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">Spring Boot Microservices · Docker · Kubernetes · CI/CD Pipelines</text>
+
+  <!-- RESEARCHING -->
+  <circle cx="30" cy="121" r="4" fill="#a371f7">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <text x="48" y="116" font-family="'Consolas', 'Courier New', monospace" font-size="10" fill="#7d8590" letter-spacing="2">RESEARCHING</text>
+  <text x="48" y="132" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">Multi-Agent Orchestration · LangGraph · Deterministic Evaluation Pipelines</text>
+
+  <!-- LATEST WIN -->
+  <circle cx="30" cy="164" r="4" fill="#3ddbd9">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+  <text x="48" y="159" font-family="'Consolas', 'Courier New', monospace" font-size="10" fill="#7d8590" letter-spacing="2">LATEST WIN</text>
+  <text x="48" y="175" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">1st Place — Geekverse Hackathon (GeeksforGeeks x LPU) with CareerAI</text>
+</svg>

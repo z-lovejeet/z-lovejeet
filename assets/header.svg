@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
+  <!-- Background -->
+  <rect width="850" height="220" fill="#0d1117"/>
+
+  <defs>
+    <!-- Subtle dot grid -->
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="0.5" fill="#30363d" opacity="0.35"/>
+    </pattern>
+
+    <!-- Animated gradient for name -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" values="#58a6ff;#3ddbd9;#a371f7;#58a6ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%">
+        <animate attributeName="stop-color" values="#3ddbd9;#a371f7;#58a6ff;#3ddbd9" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" values="#a371f7;#58a6ff;#3ddbd9;#a371f7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Dot grid overlay -->
+  <rect width="850" height="220" fill="url(#dots)"/>
+
+  <!-- Corner bracket accents -->
+  <path d="M 20,40 L 20,20 L 40,20" fill="none" stroke="#30363d" stroke-width="1" opacity="0.6"/>
+  <path d="M 810,20 L 830,20 L 830,40" fill="none" stroke="#30363d" stroke-width="1" opacity="0.6"/>
+  <path d="M 20,180 L 20,200 L 40,200" fill="none" stroke="#30363d" stroke-width="1" opacity="0.6"/>
+  <path d="M 810,200 L 830,200 L 830,180" fill="none" stroke="#30363d" stroke-width="1" opacity="0.6"/>
+
+  <!-- Name with animated gradient -->
+  <text x="425" y="95" text-anchor="middle" fill="url(#nameGrad)" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="4">LOVEJEET SINGH</text>
+
+  <!-- Subtitle -->
+  <text x="425" y="138" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" letter-spacing="8">AGENTIC AI &amp; SYSTEMS ENGINEER</text>
+
+  <!-- Base line -->
+  <line x1="275" y1="168" x2="575" y2="168" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- Animated traveling glow -->
+  <rect x="275" y="167.5" width="35" height="1" rx="0.5">
+    <animate attributeName="x" values="275;540;275" dur="4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animate attributeName="fill" values="#58a6ff;#3ddbd9;#a371f7;#58a6ff" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

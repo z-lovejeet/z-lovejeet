@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="50" viewBox="0 0 850 50">
+  <!-- Background -->
+  <rect width="850" height="50" fill="#0d1117"/>
+
+  <!-- Base line -->
+  <line x1="75" y1="12" x2="775" y2="12" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- Animated traveling glow -->
+  <rect y="11.5" width="30" height="1" rx="0.5">
+    <animate attributeName="x" values="75;745;75" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animate attributeName="fill" values="#3ddbd9;#a371f7;#58a6ff;#3ddbd9" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Tagline -->
+  <text x="425" y="38" text-anchor="middle" fill="#484f58" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="4">DESIGNING INTELLIGENT SYSTEMS · ENGINEERING SCALABLE SOLUTIONS</text>
+</svg>

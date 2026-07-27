@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="310" viewBox="0 0 850 310">
+  <style>
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    .cursor { animation: blink 1.2s step-end infinite; }
+  </style>
+
+  <!-- Terminal window -->
+  <rect width="850" height="310" fill="#0d1117" rx="10"/>
+
+  <!-- Title bar -->
+  <rect width="850" height="36" fill="#161b22" rx="10"/>
+  <rect y="26" width="850" height="10" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="18" r="5.5" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="5.5" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="5.5" fill="#28c840"/>
+
+  <!-- Tab title -->
+  <text x="425" y="23" text-anchor="middle" fill="#7d8590" font-family="'Consolas', 'Courier New', monospace" font-size="12">lovejeet@universe ~/about</text>
+
+  <!-- Command -->
+  <text x="28" y="68" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#3ddbd9">$</tspan>
+    <tspan fill="#c9d1d9"> cat profile.yml</tspan>
+  </text>
+
+  <!-- YAML: name -->
+  <text x="28" y="104" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#7d8590">name:       </tspan>
+    <tspan fill="#c9d1d9">Lovejeet Singh</tspan>
+  </text>
+
+  <!-- YAML: role -->
+  <text x="28" y="130" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#7d8590">role:       </tspan>
+    <tspan fill="#c9d1d9">Agentic AI &amp; Systems Engineer</tspan>
+  </text>
+
+  <!-- YAML: education -->
+  <text x="28" y="156" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#7d8590">education:  </tspan>
+    <tspan fill="#c9d1d9">B.Tech CSE (AI/ML) — Lovely Professional University</tspan>
+  </text>
+
+  <!-- YAML: stack -->
+  <text x="28" y="182" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#7d8590">stack:      </tspan>
+    <tspan fill="#c9d1d9">Java 21 · Python · TypeScript · Next.js · Spring Boot</tspan>
+  </text>
+
+  <!-- YAML: focus -->
+  <text x="28" y="208" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#7d8590">focus:      </tspan>
+    <tspan fill="#c9d1d9">Agentic AI · Multi-Agent Systems · Scalable Backends</tspan>
+  </text>
+
+  <!-- YAML: expertise -->
+  <text x="28" y="234" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#7d8590">expertise:  </tspan>
+    <tspan fill="#c9d1d9">Agent Orchestration · RAG · Prompt Engineering</tspan>
+  </text>
+
+  <!-- YAML: status -->
+  <text x="28" y="260" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#7d8590">status:     </tspan>
+    <tspan fill="#3ddbd9">Open to opportunities</tspan>
+  </text>
+
+  <!-- Prompt with blinking cursor -->
+  <text x="28" y="296" font-family="'Consolas', 'Courier New', monospace" font-size="13">
+    <tspan fill="#3ddbd9">$</tspan>
+  </text>
+  <rect x="44" y="284" width="8" height="15" fill="#58a6ff" class="cursor" rx="1"/>
+</svg>
