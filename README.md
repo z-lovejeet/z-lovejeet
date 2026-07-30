@@ -80,89 +80,9 @@
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-**StormAPI**
-<br>
-<sub>High-performance API load testing engine</sub>
-
-`Java 21` `Spring Boot` `PostgreSQL` `WebSocket` `React`
-
-<sub>Virtual Threads concurrency · Real-time STOMP telemetry · Binary search breakpoint detection · HdrHistogram p99 metrics</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-**CareerAI** · *Winner*
-<br>
-<sub>7-agent agentic AI placement system</sub>
-
-`Next.js` `Gemini API` `Supabase` `TypeScript`
-
-<sub>Custom orchestrator (40% faster TTFT) · 3-tier model fallback · Proactive Alert Engine · Gamification engine</sub>
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-**Lumos**
-<br>
-<sub>AI-powered academic operating system</sub>
-
-`Next.js` `LangGraph` `Supabase` `Prisma`
-
-<sub>5-tier AI architecture · Browser ML via WASM · LLM router with cloud fallback · ROI-ranked study strategies</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-**[Pathfinding Visualizer](https://pathfinding-visualizer-flax-one.vercel.app/)**
-<br>
-<sub>Interactive 3D algorithm explorer</sub>
-
-`Next.js` `Three.js` `React Three Fiber` `Zustand`
-
-<sub>6 algorithms · 5 maze generators · 3D WebGL board · Comparison mode · Share links via Neon PostgreSQL</sub>
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-**Bengaluru Price Predictor**
-<br>
-<sub>End-to-end ML pipeline + full-stack app</sub>
-
-`Python` `FastAPI` `scikit-learn` `PyTorch`
-
-<sub>178 locations · 9,200+ listings · 7-phase ML pipeline · Neural network with AdamW · Explainable AI panel</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-**Wealify Labs**
-<br>
-<sub>Premium course platform — built from scratch</sub>
-
-`Next.js` `Supabase` `PayPal SDK` `Crypto Payments`
-
-<sub>Server-first SSR · Cookie-based auth + RLS · Dual payment gateways · Admin analytics dashboard</sub>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/projects.svg" width="100%" alt="Featured Projects" />
+</p>
 
 <br>
 <p align="center"><img src="./assets/divider.svg" width="100%" /></p>
