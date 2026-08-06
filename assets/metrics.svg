@@ -5,13 +5,13 @@
 
   <!-- COMMITS -->
   <text x="130" y="72" text-anchor="middle" fill="#58a6ff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="700" opacity="0">
-    667
+    737
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze" begin="0.2s"/>
   </text>
   <text x="130" y="95" text-anchor="middle" fill="#7d8590" font-family="'Consolas','Courier New',monospace" font-size="10" letter-spacing="2.5">COMMITS</text>
   <rect x="80" y="110" width="100" height="2" fill="#21262d" rx="1"/>
   <rect x="80" y="110" width="0" height="2" fill="#58a6ff" rx="1">
-    <animate attributeName="width" from="0" to="83" dur="1.2s" fill="freeze" begin="0.3s" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="width" from="0" to="92" dur="1.2s" fill="freeze" begin="0.3s" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
 
   <!-- PULL REQUESTS -->
@@ -51,37 +51,37 @@
   <line x1="50" y1="132" x2="800" y2="132" stroke="#21262d" stroke-width="0.5"/>
 
   <!-- CONTRIBUTION DOTS (last 30 days, real data) -->
-  <rect x="215" y="148" width="10" height="10" fill="#161b22" rx="2"/>
-  <rect x="229" y="148" width="10" height="10" fill="#006d32" rx="2"/>
-  <rect x="243" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
+  <rect x="215" y="148" width="10" height="10" fill="#006d32" rx="2"/>
+  <rect x="229" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
+  <rect x="243" y="148" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="257" y="148" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="271" y="148" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="285" y="148" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="299" y="148" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="313" y="148" width="10" height="10" fill="#161b22" rx="2"/>
   <rect x="327" y="148" width="10" height="10" fill="#161b22" rx="2"/>
-  <rect x="341" y="148" width="10" height="10" fill="#161b22" rx="2"/>
+  <rect x="341" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
   <rect x="355" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
-  <rect x="369" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
-  <rect x="383" y="148" width="10" height="10" fill="#39d353" rx="2"/>
+  <rect x="369" y="148" width="10" height="10" fill="#39d353" rx="2"/>
+  <rect x="383" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
   <rect x="397" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
   <rect x="411" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
   <rect x="425" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
-  <rect x="439" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
-  <rect x="453" y="148" width="10" height="10" fill="#161b22" rx="2"/>
+  <rect x="439" y="148" width="10" height="10" fill="#161b22" rx="2"/>
+  <rect x="453" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
   <rect x="467" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
-  <rect x="481" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
-  <rect x="495" y="148" width="10" height="10" fill="#006d32" rx="2"/>
-  <rect x="509" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
+  <rect x="481" y="148" width="10" height="10" fill="#006d32" rx="2"/>
+  <rect x="495" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
+  <rect x="509" y="148" width="10" height="10" fill="#006d32" rx="2"/>
   <rect x="523" y="148" width="10" height="10" fill="#006d32" rx="2"/>
-  <rect x="537" y="148" width="10" height="10" fill="#006d32" rx="2"/>
-  <rect x="551" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
+  <rect x="537" y="148" width="10" height="10" fill="#0e4429" rx="2"/>
+  <rect x="551" y="148" width="10" height="10" fill="#006d32" rx="2"/>
   <rect x="565" y="148" width="10" height="10" fill="#006d32" rx="2"/>
   <rect x="579" y="148" width="10" height="10" fill="#006d32" rx="2"/>
   <rect x="593" y="148" width="10" height="10" fill="#006d32" rx="2"/>
-  <rect x="607" y="148" width="10" height="10" fill="#006d32" rx="2"/>
-  <rect x="621" y="148" width="10" height="10" fill="#161b22" rx="2"/>
+  <rect x="607" y="148" width="10" height="10" fill="#39d353" rx="2"/>
+  <rect x="621" y="148" width="10" height="10" fill="#006d32" rx="2"/>
 
   <!-- FOOTER -->
-  <text x="425" y="186" text-anchor="middle" fill="#484f58" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" letter-spacing="3">691 CONTRIBUTIONS IN THE LAST YEAR</text>
+  <text x="425" y="186" text-anchor="middle" fill="#484f58" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" letter-spacing="3">761 CONTRIBUTIONS IN THE LAST YEAR</text>
 </svg>
