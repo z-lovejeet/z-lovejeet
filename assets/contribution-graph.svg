@@ -1,74 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="180" viewBox="0 0 850 180">
   <defs>
-    <linearGradient id="areaFill" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="af" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.01"/>
     </linearGradient>
-    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
-      <stop offset="10%" stop-color="#58a6ff" stop-opacity="1"/>
-      <stop offset="90%" stop-color="#3ddbd9" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#3ddbd9" stop-opacity="0"/>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#3ddbd9"/>
     </linearGradient>
   </defs>
 
-  <!-- Background -->
   <rect width="850" height="180" fill="#0d1117" rx="10"/>
   <rect width="850" height="180" fill="none" stroke="#21262d" stroke-width="1" rx="10"/>
 
-  <!-- Grid lines -->
-  <line x1="50" y1="30" x2="825" y2="30" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
-  <line x1="50" y1="60" x2="825" y2="60" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
-  <line x1="50" y1="90" x2="825" y2="90" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
-  <line x1="50" y1="120" x2="825" y2="120" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
-  <line x1="50" y1="145" x2="825" y2="145" stroke="#21262d" stroke-width="0.5"/>
+  <!-- Grid -->
+  <line x1="50" y1="145.0" x2="825" y2="145.0" stroke="#21262d" stroke-width="0.5"/>
+  <text x="42" y="148.0" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">0</text>
+  <line x1="50" y1="115.8" x2="825" y2="115.8" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <text x="42" y="118.8" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">25</text>
+  <line x1="50" y1="86.5" x2="825" y2="86.5" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <text x="42" y="89.5" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">50</text>
+  <line x1="50" y1="57.2" x2="825" y2="57.2" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <text x="42" y="60.2" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">75</text>
+  <line x1="50" y1="28.0" x2="825" y2="28.0" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <text x="42" y="31.0" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">100</text>
 
-  <!-- Y-axis labels -->
-  <text x="38" y="34" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">12</text>
-  <text x="38" y="64" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">9</text>
-  <text x="38" y="94" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">6</text>
-  <text x="38" y="124" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">3</text>
-  <text x="38" y="149" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">0</text>
-
-  <!-- Area fill (smooth contribution curve) -->
-  <path d="M 50,120 L 75.8,110 L 101.7,126 L 127.5,96 L 153.3,106 L 179.2,82 L 205,92 L 230.8,120 L 256.7,68 L 282.5,96 L 308.3,82 L 334.2,110 L 360,92 L 385.8,72 L 411.7,106 L 437.5,126 L 463.3,96 L 489.2,82 L 515,58 L 540.8,86 L 566.7,106 L 592.5,72 L 618.3,110 L 644.2,96 L 670,82 L 695.8,106 L 721.7,86 L 747.5,72 L 773.3,96 L 799.2,110 L 825,82 L 825,145 L 50,145 Z"
-    fill="url(#areaFill)" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" begin="0.5s"/>
+  <!-- Area fill -->
+  <path d="M 50.0,125.1 L 75.8,125.1 L 101.7,86.5 L 127.5,121.6 L 153.3,119.3 L 179.2,126.3 L 205.0,113.4 L 230.8,140.3 L 256.7,131.0 L 282.5,145.0 L 308.3,145.0 L 334.2,118.1 L 360.0,99.4 L 385.8,76.0 L 411.7,142.7 L 437.5,145.0 L 463.3,133.3 L 489.2,135.6 L 515.0,99.4 L 540.8,145.0 L 566.7,141.5 L 592.5,143.8 L 618.3,140.3 L 644.2,112.2 L 670.0,81.8 L 695.8,143.8 L 721.7,138.0 L 747.5,76.0 L 773.3,114.6 L 799.2,141.5 L 825.0,142.7 L 825.0,145 L 50.0,145 Z" fill="url(#af)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze" begin="0.5s"/>
   </path>
 
-  <!-- Glow line behind main line -->
-  <path d="M 50,120 L 75.8,110 L 101.7,126 L 127.5,96 L 153.3,106 L 179.2,82 L 205,92 L 230.8,120 L 256.7,68 L 282.5,96 L 308.3,82 L 334.2,110 L 360,92 L 385.8,72 L 411.7,106 L 437.5,126 L 463.3,96 L 489.2,82 L 515,58 L 540.8,86 L 566.7,106 L 592.5,72 L 618.3,110 L 644.2,96 L 670,82 L 695.8,106 L 721.7,86 L 747.5,72 L 773.3,96 L 799.2,110 L 825,82"
-    fill="none" stroke="#58a6ff" stroke-width="6" opacity="0.12"
-    stroke-dasharray="1800" stroke-dashoffset="1800" stroke-linecap="round" stroke-linejoin="round">
-    <animate attributeName="stroke-dashoffset" from="1800" to="0" dur="2s" fill="freeze" begin="0.3s"/>
+  <!-- Glow line -->
+  <path d="M 50.0,125.1 L 75.8,125.1 L 101.7,86.5 L 127.5,121.6 L 153.3,119.3 L 179.2,126.3 L 205.0,113.4 L 230.8,140.3 L 256.7,131.0 L 282.5,145.0 L 308.3,145.0 L 334.2,118.1 L 360.0,99.4 L 385.8,76.0 L 411.7,142.7 L 437.5,145.0 L 463.3,133.3 L 489.2,135.6 L 515.0,99.4 L 540.8,145.0 L 566.7,141.5 L 592.5,143.8 L 618.3,140.3 L 644.2,112.2 L 670.0,81.8 L 695.8,143.8 L 721.7,138.0 L 747.5,76.0 L 773.3,114.6 L 799.2,141.5 L 825.0,142.7" fill="none" stroke="#58a6ff" stroke-width="6" opacity="0.1"
+    stroke-linecap="round" stroke-linejoin="round"
+    stroke-dasharray="1146" stroke-dashoffset="1146">
+    <animate attributeName="stroke-dashoffset" from="1146" to="0" dur="2s" fill="freeze" begin="0.2s"/>
   </path>
 
-  <!-- Main contribution line -->
-  <path d="M 50,120 L 75.8,110 L 101.7,126 L 127.5,96 L 153.3,106 L 179.2,82 L 205,92 L 230.8,120 L 256.7,68 L 282.5,96 L 308.3,82 L 334.2,110 L 360,92 L 385.8,72 L 411.7,106 L 437.5,126 L 463.3,96 L 489.2,82 L 515,58 L 540.8,86 L 566.7,106 L 592.5,72 L 618.3,110 L 644.2,96 L 670,82 L 695.8,106 L 721.7,86 L 747.5,72 L 773.3,96 L 799.2,110 L 825,82"
-    fill="none" stroke="url(#lineGlow)" stroke-width="2"
-    stroke-dasharray="1800" stroke-dashoffset="1800" stroke-linecap="round" stroke-linejoin="round">
-    <animate attributeName="stroke-dashoffset" from="1800" to="0" dur="2s" fill="freeze" begin="0.3s"/>
+  <!-- Main line -->
+  <path d="M 50.0,125.1 L 75.8,125.1 L 101.7,86.5 L 127.5,121.6 L 153.3,119.3 L 179.2,126.3 L 205.0,113.4 L 230.8,140.3 L 256.7,131.0 L 282.5,145.0 L 308.3,145.0 L 334.2,118.1 L 360.0,99.4 L 385.8,76.0 L 411.7,142.7 L 437.5,145.0 L 463.3,133.3 L 489.2,135.6 L 515.0,99.4 L 540.8,145.0 L 566.7,141.5 L 592.5,143.8 L 618.3,140.3 L 644.2,112.2 L 670.0,81.8 L 695.8,143.8 L 721.7,138.0 L 747.5,76.0 L 773.3,114.6 L 799.2,141.5 L 825.0,142.7" fill="none" stroke="url(#lg)" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round"
+    stroke-dasharray="1146" stroke-dashoffset="1146">
+    <animate attributeName="stroke-dashoffset" from="1146" to="0" dur="2s" fill="freeze" begin="0.2s"/>
   </path>
 
-  <!-- Data points (appear after line draws) -->
+  <!-- Peak dots -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2s"/>
-    <circle cx="50" cy="120" r="2" fill="#3ddbd9" opacity="0.5"/>
-    <circle cx="127.5" cy="96" r="2" fill="#3ddbd9" opacity="0.5"/>
-    <circle cx="256.7" cy="68" r="2.5" fill="#3ddbd9" opacity="0.7"/>
-    <circle cx="385.8" cy="72" r="2.5" fill="#3ddbd9" opacity="0.7"/>
-    <circle cx="515" cy="58" r="3" fill="#3ddbd9" opacity="0.9"/>
-    <circle cx="592.5" cy="72" r="2.5" fill="#3ddbd9" opacity="0.7"/>
-    <circle cx="747.5" cy="72" r="2.5" fill="#3ddbd9" opacity="0.7"/>
-    <circle cx="825" cy="82" r="2" fill="#3ddbd9" opacity="0.5"/>
+    <circle cx="101.7" cy="86.5" r="3.0" fill="#3ddbd9" opacity="0.65"/>
+    <circle cx="360.0" cy="99.4" r="2.8" fill="#3ddbd9" opacity="0.59"/>
+    <circle cx="385.8" cy="76.0" r="3.2" fill="#3ddbd9" opacity="0.7"/>
+    <circle cx="515.0" cy="99.4" r="2.8" fill="#3ddbd9" opacity="0.59"/>
+    <circle cx="670.0" cy="81.8" r="3.1" fill="#3ddbd9" opacity="0.67"/>
+    <circle cx="747.5" cy="76.0" r="3.2" fill="#3ddbd9" opacity="0.7"/>
   </g>
 
-  <!-- X-axis date labels -->
-  <text x="50" y="162" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 3</text>
-  <text x="179.2" y="162" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 8</text>
-  <text x="308.3" y="162" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 13</text>
-  <text x="437.5" y="162" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 18</text>
-  <text x="566.7" y="162" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 23</text>
-  <text x="695.8" y="162" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 28</text>
-  <text x="825" y="162" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 2</text>
+  <!-- X-axis labels -->
+  <text x="50.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 3</text>
+  <text x="179.2" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 8</text>
+  <text x="308.3" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 13</text>
+  <text x="437.5" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 18</text>
+  <text x="566.7" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 23</text>
+  <text x="695.8" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 28</text>
+  <text x="825.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 2</text>
+  <text x="825.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 2</text>
 </svg>
