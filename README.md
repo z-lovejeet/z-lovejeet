@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=z-lovejeet&bg_color=0D1117&color=484f58&line=58A6FF&point=3DDBD9&area=true&area_color=1a3351&hide_border=true&custom_title=%20&radius=3&title_color=58A6FF" width="100%" alt="Contribution Graph" />
+<img src="./assets/contribution-graph.svg" width="100%" alt="Contribution Graph" />
 
 <br>
 
