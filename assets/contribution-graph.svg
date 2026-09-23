@@ -26,19 +26,19 @@
   <text x="42" y="31.0" fill="#484f58" font-family="'Consolas',monospace" font-size="9" text-anchor="end">100</text>
 
   <!-- Area fill -->
-  <path d="M 50.0,141.5 L 75.8,143.8 L 101.7,140.3 L 127.5,112.2 L 153.3,81.8 L 179.2,143.8 L 205.0,138.0 L 230.8,76.0 L 256.7,114.6 L 282.5,141.5 L 308.3,141.5 L 334.2,116.9 L 360.0,143.8 L 385.8,145.0 L 411.7,111.1 L 437.5,122.8 L 463.3,44.4 L 489.2,145.0 L 515.0,108.7 L 540.8,123.9 L 566.7,145.0 L 592.5,143.8 L 618.3,143.8 L 644.2,145.0 L 670.0,145.0 L 695.8,145.0 L 721.7,145.0 L 747.5,143.8 L 773.3,143.8 L 799.2,143.8 L 825.0,145.0 L 825.0,145 L 50.0,145 Z" fill="url(#af)" opacity="0">
+  <path d="M 50.0,143.8 L 75.8,140.3 L 101.7,112.2 L 127.5,81.8 L 153.3,143.8 L 179.2,138.0 L 205.0,76.0 L 230.8,114.6 L 256.7,141.5 L 282.5,141.5 L 308.3,116.9 L 334.2,143.8 L 360.0,145.0 L 385.8,111.1 L 411.7,122.8 L 437.5,44.4 L 463.3,145.0 L 489.2,108.7 L 515.0,123.9 L 540.8,145.0 L 566.7,143.8 L 592.5,143.8 L 618.3,145.0 L 644.2,145.0 L 670.0,145.0 L 695.8,145.0 L 721.7,143.8 L 747.5,143.8 L 773.3,143.8 L 799.2,143.8 L 825.0,145.0 L 825.0,145 L 50.0,145 Z" fill="url(#af)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze" begin="0.5s"/>
   </path>
 
   <!-- Glow line -->
-  <path d="M 50.0,141.5 L 75.8,143.8 L 101.7,140.3 L 127.5,112.2 L 153.3,81.8 L 179.2,143.8 L 205.0,138.0 L 230.8,76.0 L 256.7,114.6 L 282.5,141.5 L 308.3,141.5 L 334.2,116.9 L 360.0,143.8 L 385.8,145.0 L 411.7,111.1 L 437.5,122.8 L 463.3,44.4 L 489.2,145.0 L 515.0,108.7 L 540.8,123.9 L 566.7,145.0 L 592.5,143.8 L 618.3,143.8 L 644.2,145.0 L 670.0,145.0 L 695.8,145.0 L 721.7,145.0 L 747.5,143.8 L 773.3,143.8 L 799.2,143.8 L 825.0,145.0" fill="none" stroke="#58a6ff" stroke-width="6" opacity="0.1"
+  <path d="M 50.0,143.8 L 75.8,140.3 L 101.7,112.2 L 127.5,81.8 L 153.3,143.8 L 179.2,138.0 L 205.0,76.0 L 230.8,114.6 L 256.7,141.5 L 282.5,141.5 L 308.3,116.9 L 334.2,143.8 L 360.0,145.0 L 385.8,111.1 L 411.7,122.8 L 437.5,44.4 L 463.3,145.0 L 489.2,108.7 L 515.0,123.9 L 540.8,145.0 L 566.7,143.8 L 592.5,143.8 L 618.3,145.0 L 644.2,145.0 L 670.0,145.0 L 695.8,145.0 L 721.7,143.8 L 747.5,143.8 L 773.3,143.8 L 799.2,143.8 L 825.0,145.0" fill="none" stroke="#58a6ff" stroke-width="6" opacity="0.1"
     stroke-linecap="round" stroke-linejoin="round"
     stroke-dasharray="1172" stroke-dashoffset="1172">
     <animate attributeName="stroke-dashoffset" from="1172" to="0" dur="2s" fill="freeze" begin="0.2s"/>
   </path>
 
   <!-- Main line -->
-  <path d="M 50.0,141.5 L 75.8,143.8 L 101.7,140.3 L 127.5,112.2 L 153.3,81.8 L 179.2,143.8 L 205.0,138.0 L 230.8,76.0 L 256.7,114.6 L 282.5,141.5 L 308.3,141.5 L 334.2,116.9 L 360.0,143.8 L 385.8,145.0 L 411.7,111.1 L 437.5,122.8 L 463.3,44.4 L 489.2,145.0 L 515.0,108.7 L 540.8,123.9 L 566.7,145.0 L 592.5,143.8 L 618.3,143.8 L 644.2,145.0 L 670.0,145.0 L 695.8,145.0 L 721.7,145.0 L 747.5,143.8 L 773.3,143.8 L 799.2,143.8 L 825.0,145.0" fill="none" stroke="url(#lg)" stroke-width="2"
+  <path d="M 50.0,143.8 L 75.8,140.3 L 101.7,112.2 L 127.5,81.8 L 153.3,143.8 L 179.2,138.0 L 205.0,76.0 L 230.8,114.6 L 256.7,141.5 L 282.5,141.5 L 308.3,116.9 L 334.2,143.8 L 360.0,145.0 L 385.8,111.1 L 411.7,122.8 L 437.5,44.4 L 463.3,145.0 L 489.2,108.7 L 515.0,123.9 L 540.8,145.0 L 566.7,143.8 L 592.5,143.8 L 618.3,145.0 L 644.2,145.0 L 670.0,145.0 L 695.8,145.0 L 721.7,143.8 L 747.5,143.8 L 773.3,143.8 L 799.2,143.8 L 825.0,145.0" fill="none" stroke="url(#lg)" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round"
     stroke-dasharray="1172" stroke-dashoffset="1172">
     <animate attributeName="stroke-dashoffset" from="1172" to="0" dur="2s" fill="freeze" begin="0.2s"/>
@@ -47,22 +47,22 @@
   <!-- Peak dots -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2s"/>
-    <circle cx="127.5" cy="112.2" r="2.6" fill="#3ddbd9" opacity="0.54"/>
-    <circle cx="153.3" cy="81.8" r="3.1" fill="#3ddbd9" opacity="0.67"/>
-    <circle cx="230.8" cy="76.0" r="3.2" fill="#3ddbd9" opacity="0.7"/>
-    <circle cx="256.7" cy="114.6" r="2.5" fill="#3ddbd9" opacity="0.53"/>
-    <circle cx="411.7" cy="111.1" r="2.6" fill="#3ddbd9" opacity="0.55"/>
-    <circle cx="463.3" cy="44.4" r="3.5" fill="#3ddbd9" opacity="0.83"/>
-    <circle cx="515.0" cy="108.7" r="2.6" fill="#3ddbd9" opacity="0.56"/>
+    <circle cx="101.7" cy="112.2" r="2.6" fill="#3ddbd9" opacity="0.54"/>
+    <circle cx="127.5" cy="81.8" r="3.1" fill="#3ddbd9" opacity="0.67"/>
+    <circle cx="205.0" cy="76.0" r="3.2" fill="#3ddbd9" opacity="0.7"/>
+    <circle cx="230.8" cy="114.6" r="2.5" fill="#3ddbd9" opacity="0.53"/>
+    <circle cx="385.8" cy="111.1" r="2.6" fill="#3ddbd9" opacity="0.55"/>
+    <circle cx="437.5" cy="44.4" r="3.5" fill="#3ddbd9" opacity="0.83"/>
+    <circle cx="489.2" cy="108.7" r="2.6" fill="#3ddbd9" opacity="0.56"/>
   </g>
 
   <!-- X-axis labels -->
-  <text x="50.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 23</text>
-  <text x="179.2" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 28</text>
-  <text x="308.3" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 2</text>
-  <text x="437.5" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 7</text>
-  <text x="566.7" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 12</text>
-  <text x="695.8" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 17</text>
-  <text x="825.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 22</text>
-  <text x="825.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 22</text>
+  <text x="50.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 24</text>
+  <text x="179.2" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Aug 29</text>
+  <text x="308.3" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 3</text>
+  <text x="437.5" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 8</text>
+  <text x="566.7" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 13</text>
+  <text x="695.8" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 18</text>
+  <text x="825.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 23</text>
+  <text x="825.0" y="170" fill="#484f58" font-family="'Consolas',monospace" font-size="8" text-anchor="middle">Sep 23</text>
 </svg>
